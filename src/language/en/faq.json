@@ -1,0 +1,14 @@
+{
+    "questions": "Frequently Asked Questions",
+    "title": "By reviewing the frequently asked questions, you can clear the question marks in your mind.",
+    "que1": "If your email or password is not working?",
+    "ans1": "Make sure you are logged out and then use password reset. If you receive the message that an account with that email does not exist, enter possible email addresses you own. When you get the message that we’ve sent a reset link, you’ll know your login email.",
+    "que2": "If the verification link is returning an expired message?",
+    "ans2": "Try logging in again and wait 15 minutes for a new verification link to reach you before retrying.Check that you’re using the most recent link we’ve sent youMake sure you’re verifying on the same device you are attempting to access your account on (i.e., verify on your desktop if you want to log in on your desktop)",
+    "que3": "I think my account was hacked?",
+    "ans3": "If you suspect your account has been compromised, we recommend requesting a password reset . We also suggest changing your password for other account logins, especially if you’ve reused passwords.",
+    "que4": "I’m not getting my password reset email?",
+    "ans4": "Check your spam folder, and inbox filters (e.g., Promotions) for emails , to your email contacts and reattemptIf you’re using a hosted domain service.",
+    "que5": "Account already exists?",
+    "ans5": "You may have requested that we disable your account in the past. You can either create an account with an alternate email address or reach out to our support team, and we’ll be able to help you clear this up."
+}
